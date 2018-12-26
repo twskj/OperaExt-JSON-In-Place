@@ -1,0 +1,11 @@
+Once you are satisfied that your extension is finished, you need to package it into a NEX file, as follows:
+
+Go to the browser address bar and type opera:extensions.
+Make sure you have “Developer Mode” (located on the top right) checked.
+Click on the “Pack Extension” button, located on the top of the page.
+Select the directory of your extension
+Click “OK”.
+Your NEX package will be generated in the parent directory of the one you had selected. Congratulations!
+
+
+SEE: https://dev.opera.com/extensions/basics/#step-5-----packing-it-all-up
