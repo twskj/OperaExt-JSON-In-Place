@@ -1,4 +1,7 @@
-v0.1.1 [Dec 26, 2018]
+v0.1.3 [Dec 26, 2018]
+- fixed html escape bug
+
+v0.1.2 [Dec 26, 2018]
 - improve searching performance
 
 v0.1.1 [Dec 25, 2018]
