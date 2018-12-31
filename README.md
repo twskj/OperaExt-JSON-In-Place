@@ -19,12 +19,12 @@ TBD
 
 ### For example
 Consider this JSON as our input:
-```js
+```
 {"hello": "world", "embeded": "{\"hello\":\"world\"}"}
 ```
 
 **Format JSON** yields 
-```js
+```
 {
    "hello": "world",
    "embeded": "{\"hello\":\"world\"}"
@@ -32,7 +32,7 @@ Consider this JSON as our input:
 ```
 
 **Format Escaped JSON** yields
-```js
+```
 {
    "hello": "world",
    "embeded": {
